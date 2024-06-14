@@ -1,0 +1,29 @@
+[
+    {
+      "role": "Data Analyst Intern",
+      "organisation": "GoodIdea Media",
+      "startDate": "October, 2023",
+      "endDate": "December, 2023",
+      "experiences": ["Performed analysis on digital marketing optimization", "Monitored operational performance through analyzing million-level clickstream"],
+      "imageSrc": "history/31logo.jpg"
+    },
+    {
+      "role": "Data Analyst Intern",
+      "organisation": "Wilo China",
+      "startDate": "May, 2022",
+      "endDate": "August, 2022",
+      "experiences": ["Conducting sales performance analysis across different stages", "Visualized sales performance metrics patterns by interactive Tableau dashboard"],
+      "imageSrc": "history/wilo.png"
+    },
+    {
+      "role": "Human Resources Analyst Intern",
+      "organisation": "Meituan",
+      "startDate": "September, 2021",
+      "endDate": "December, 2021",
+      "experiences": [
+        "Analyzing weekly enterprise recruitment status report",
+        "Summarizing enterprise-wide HR metrics"
+      ],
+      "imageSrc": "history/meituan.png"
+    }
+  ]

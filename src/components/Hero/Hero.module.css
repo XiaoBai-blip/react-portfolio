@@ -1,4 +1,4 @@
-@import "../../../vars.css";
+@import "../../vars.css";
 
 .contanier {
     position: relative;
@@ -52,11 +52,11 @@
 
 
 .heroImg {
-    width: 50%;
+    width: 60%;
     z-index: 1;
 /* 头像出场动画 */
     animation-name: floating;  
-    animation-duration: 3s;
+    animation-duration: 2s;
     animation-iteration-count: infinite;
     animation-timing-function: ease-in-out;
 }

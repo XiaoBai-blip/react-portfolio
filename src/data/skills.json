@@ -1,0 +1,58 @@
+[
+    {
+      "title": "Python",
+      "imageSrc": "skills/p2.png"
+    },
+    {
+      "title": "R",
+      "imageSrc": "skills/rr.png"
+    },
+    {
+      "title": "SQL",
+      "imageSrc": "skills/myssql.png"
+    },
+    {
+      "title": "SAS",
+      "imageSrc": "skills/sass.png"
+    },
+    {
+      "title": "Tableau",
+      "imageSrc": "skills/tableau2.png"
+    },
+    {
+      "title": "Machine Learning",
+      "imageSrc": "skills/machine learning.jpeg"
+    },
+    {
+      "title": "Natural Language Processing",
+      "imageSrc": "skills/nlp.jpeg"
+    },
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "Node",
+      "imageSrc": "skills/node.png"
+    },
+    {
+      "title": "GraphQL",
+      "imageSrc": "skills/graphql.png"
+    },
+    {
+      "title": "MongoDB",
+      "imageSrc": "skills/mongodb.png"
+    },
+    {
+      "title": "Figma",
+      "imageSrc": "skills/figma.png"
+    }
+  ]

@@ -1,0 +1,18 @@
+[
+    {
+      "title": "Streamlit App",
+      "imageSrc": "projects/streamlit.png",
+      "description": "This is a project made to create an interactive app for the data and model using Streamlit.",
+      "skills": ["Python", "Machine-Learning", "Statistical-Analysis"],
+      "demo": "https://xiaobai-blip-streamlit-app-py-main-page-eqlkc3.streamlit.app/",
+      "source": "https://github.com/XiaoBai-blip/streamlit_app.py"
+    },
+    {
+      "title": "Project B",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Express", "Node", "Sass"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]
