@@ -4,28 +4,34 @@
       "imageSrc": "skills/p2.png"
     },
     {
-      "title": "R",
-      "imageSrc": "skills/rr.png"
+      "title": "Java",
+      "imageSrc": "skills/java.png"
     },
     {
       "title": "SQL",
       "imageSrc": "skills/myssql.png"
     },
     {
-      "title": "SAS",
-      "imageSrc": "skills/sass.png"
+      "title": "Tensorflow",
+      "imageSrc": "skills/tensorflow.jpeg"
     },
     {
-      "title": "Tableau",
-      "imageSrc": "skills/tableau2.png"
+      "title": "PyTorch",
+      "imageSrc": "skills/pytorch.png"
     },
     {
-      "title": "Machine Learning",
-      "imageSrc": "skills/machine learning.jpeg"
+      "title": "Deep Learning",
+      "imageSrc": "skills/deeplearning.jpeg"
     },
+    
     {
-      "title": "Natural Language Processing",
-      "imageSrc": "skills/nlp.jpeg"
+      "title": "R",
+      "imageSrc": "skills/rr.png"
+    },
+
+    {
+      "title": "Spring Boot",
+      "imageSrc": "skills/springboot.svg"
     },
     {
       "title": "HTML",
@@ -50,6 +56,18 @@
     {
       "title": "MongoDB",
       "imageSrc": "skills/mongodb.png"
+    },
+    {
+      "title": "SAS",
+      "imageSrc": "skills/sass.png"
+    },
+    {
+      "title": "Tableau",
+      "imageSrc": "skills/tableau2.png"
+    },
+    {
+      "title": "NLP",
+      "imageSrc": "skills/nlp.jpeg"
     },
     {
       "title": "Figma",
