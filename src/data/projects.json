@@ -1,24 +1,32 @@
 [
     {
-      "title": "Streamlit Web Application",
-      "imageSrc": "projects/streamlit.png",
-      "description": "This is a project made to create an interactive app for the data and model using Streamlit.",
-      "skills": ["Python", "Machine-Learning", "Statistical-Analysis"],
-      "demo": "https://xiaobai-blip-streamlit-app-py-main-page-eqlkc3.streamlit.app/",
-      "source": "https://github.com/XiaoBai-blip/streamlit_app.py"
+      "title": "Healthcare Platform Web Application",
+      "imageSrc": "projects/stream.png",
+      "description": "This application is designed to empower medical professionals by providing an intuitive platform to explore and investigate the vast array of FDA-regulated drugs currently available on the market.",
+      "skills": ["Python", "Streamlit", "Machine-Learning", "Statistical-Analysis"],
+      "demo": "healthcareweb.streamlit.app/",
+      "source": "https://github.com/XiaoBai-blip/streamlit_app"
+    },
+    {
+      "title": "Plant Leaf Image Classification Model (computer vision AI model)",
+      "imageSrc": "projects/plant_leaf.png",
+      "description": "Plant diseases significantly impact global agriculture, reducing crop yields and threatening food security, yet traditional detection methods are slow, labor-intensive, and prone to error. To address this, we developed a hybrid pipeline that integrates the Segment Anything Model (SAM) with Vision Transformers (ViT) and ResNet architectures for accurate and robust plant disease detection...",
+      "skills": ["LLM", "Computer Vision", "AI", "Tensorflow", "PyTorch"],
+      "demo": "https://github.com/XiaoBai-blip/LLM_Plant_leaf_image_classification/blob/b2a7144d6fc478f9fc0ccf09004dc28a77c16f66/Report.pdf",
+      "source": "https://github.com/XiaoBai-blip/LLM_Plant_leaf_image_classification"
     },
     {
       "title": "Contact Manager Application - Full Stack Developer",
       "imageSrc": "projects/contactmanager.png",
       "description": "A dynamic web application that enables users to create, update, and manage their own contact cards. ",
-      "skills": ["React", "Spring Boot", "PostgreSQL", "RESTful APIs"],
+      "skills": ["Javascript", "React", "Spring Boot", "PostgreSQL", "RESTful APIs"],
       "source": "https://github.com/XiaoBai-blip/contactapp"
     },
     {
       "title": "Other Projects",
-      "imageSrc": "projects/project.png",
-      "description": "Statistical analysis projects. ",
+      "imageSrc": "projects/maomao.png",
+      "description": "For more projects, see my github page! ",
       "skills": ["R", "Python", "Machine Learning", "Data Visulization"],
-      "source": "https://github.com/XiaoBai-blip/contactapp"
+      "source": "https://github.com/XiaoBai-blip?tab=repositories"
     }
   ]
